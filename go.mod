@@ -20,7 +20,7 @@ require (
 require (
 	github.com/aws/aws-sdk-go-v2/config v1.18.19
 	github.com/pkg/errors v0.9.1
-	golang.org/x/crypto v0.0.0-20190911031432-227b76d455e7 // indirect
+	golang.org/x/crypto v0.1.0 // indirect
 )
 
 require (
@@ -33,4 +33,4 @@ require (
 	github.com/sirupsen/logrus v1.9.0
 )
 
-require golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8 // indirect
+require golang.org/x/sys v0.1.0 // indirect
