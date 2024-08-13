@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/aws/aws-sdk-go-v2/config v1.18.19
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.31.1
-	github.com/go-jose/go-jose/v3 v3.0.1
+	github.com/go-jose/go-jose/v3 v3.0.3
 	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.9.0
 )
@@ -27,6 +27,6 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.14.6 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sts v1.18.7 // indirect
 	github.com/aws/smithy-go v1.13.5 // indirect
-	golang.org/x/crypto v0.7.0 // indirect
-	golang.org/x/sys v0.7.0 // indirect
+	golang.org/x/crypto v0.19.0 // indirect
+	golang.org/x/sys v0.17.0 // indirect
 )
