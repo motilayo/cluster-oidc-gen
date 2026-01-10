@@ -7,7 +7,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.31.1
 	github.com/go-jose/go-jose/v3 v3.0.3
 	github.com/pkg/errors v0.9.1
-	github.com/sirupsen/logrus v1.9.0
+	github.com/sirupsen/logrus v1.9.1
 )
 
 require (
